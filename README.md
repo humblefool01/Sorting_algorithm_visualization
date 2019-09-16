@@ -1,4 +1,4 @@
-# A visualization of following sorting algorithms implemented in Unity:
+# A visualization tool for the following sorting algorithms made with Unity:
 * ## Bubble sort
 * ## Insertion sort
 * ## Selection sort
